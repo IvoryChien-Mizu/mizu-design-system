@@ -1,0 +1,229 @@
+
+// Do not edit directly, this file was auto-generated.
+
+$sd-slate-100: #f3f3f3;
+$sd-slate-200: #e3e3e3;
+$sd-slate-300: #cdcdcd;
+$sd-slate-400: #b2b2b2;
+$sd-slate-500: #949494;
+$sd-slate-600: #767676;
+$sd-slate-700: #5a5a5a;
+$sd-slate-800: #434343;
+$sd-slate-900: #303030;
+$sd-slate-1000: #242424;
+$sd-white-100: rgba(255, 255, 255, 0.05);
+$sd-white-200: rgba(255, 255, 255, 0.1);
+$sd-white-300: rgba(255, 255, 255, 0.2);
+$sd-white-400: rgba(255, 255, 255, 0.4);
+$sd-white-500: rgba(255, 255, 255, 0.7);
+$sd-white-600: rgba(255, 255, 255, 0.8);
+$sd-white-700: rgba(255, 255, 255, 0.85);
+$sd-white-800: rgba(255, 255, 255, 0.9);
+$sd-white-900: rgba(255, 255, 255, 0.95);
+$sd-white-1000: #ffffff;
+$sd-brand-100: #f4f5ff;
+$sd-brand-200: #dfe3fb;
+$sd-brand-300: #bbc5ff;
+$sd-brand-400: #1a2cc2;
+$sd-brand-500: #111f82;
+$sd-brand-600: #0e1868;
+$sd-brand-700: #0a124d;
+$sd-brand-800: #070d36;
+$sd-brand-900: #04061b;
+$sd-brand-1000: #02030e;
+$sd-red-100: #fee9e7;
+$sd-red-200: #fdd3d0;
+$sd-red-300: #fcb3ad;
+$sd-red-400: #f4776a;
+$sd-red-500: #ec221f;
+$sd-red-600: #c00f0c;
+$sd-red-700: #900b09;
+$sd-red-800: #690807;
+$sd-red-900: #4d0b0a;
+$sd-red-1000: #300603;
+$sd-yellow-100: #fffbeb;
+$sd-yellow-200: #fff1c2;
+$sd-yellow-300: #ffe8a3;
+$sd-yellow-400: #e8b931;
+$sd-yellow-500: #e5a000;
+$sd-yellow-600: #bf6a02;
+$sd-yellow-700: #975102;
+$sd-yellow-800: #682d03;
+$sd-yellow-900: #522504;
+$sd-yellow-1000: #401b01;
+$sd-green-100: #ebffee;
+$sd-green-200: #cff7d3;
+$sd-green-300: #aff4c6;
+$sd-green-400: #85e0a3;
+$sd-green-500: #14ae5c;
+$sd-green-600: #009951;
+$sd-green-700: #008043;
+$sd-green-800: #02542d;
+$sd-green-900: #024023;
+$sd-green-1000: #062d1b;
+$sd-black-100: rgba(12, 12, 13, 0.05);
+$sd-black-200: rgba(12, 12, 13, 0.1);
+$sd-black-300: rgba(12, 12, 13, 0.2);
+$sd-black-400: rgba(12, 12, 13, 0.4);
+$sd-black-500: rgba(12, 12, 13, 0.7);
+$sd-black-600: rgba(12, 12, 13, 0.8);
+$sd-black-700: rgba(12, 12, 13, 0.85);
+$sd-black-800: rgba(12, 12, 13, 0.9);
+$sd-black-900: rgba(12, 12, 13, 0.95);
+$sd-black-1000: #0c0c0d;
+$sd-pink-100: #fcf1fd;
+$sd-pink-200: #fae1fa;
+$sd-pink-300: #f5c0ef;
+$sd-pink-400: #f19edc;
+$sd-pink-500: #ea3fb8;
+$sd-pink-600: #d732a8;
+$sd-pink-700: #ba2a92;
+$sd-pink-800: #8a226f;
+$sd-pink-900: #57184a;
+$sd-pink-1000: #3f1536;
+$sd-gray-100: #f7f7f8;
+$sd-gray-200: #eeeff1;
+$sd-gray-300: #dddee4;
+$sd-gray-400: #b4b6c1;
+$sd-gray-500: #9a9dac;
+$sd-gray-600: #898d9f;
+$sd-gray-700: #767a8e;
+$sd-gray-800: #65697a;
+$sd-gray-900: #484a57;
+$sd-gray-1000: #2e3038;
+$sd-background-default-default: #ffffff; // Bg/Default/Default
+$sd-background-default-secondary: #f7f7f8; // Bg/Default/Secondary
+$sd-background-default-tertiary: #dddee4; // Bg/Default/Tertiary
+$sd-background-default-default-hover: #f7f7f8; // Bg/Default/Default-Hover
+$sd-background-default-secondary-hover: #eeeff1; // Bg/Default/Secondary-Hover
+$sd-background-default-tertiary-hover: #b4b6c1; // Bg/Default/Tertiary-Hover
+$sd-background-brand-default: #070d36; // Bg/Brand/Default
+$sd-background-brand-secondary: #dfe3fb; // Bg/Brand/Secondary
+$sd-background-brand-default-hover: #04061b; // Bg/Brand/Hover
+$sd-background-brand-secondary-hover: #bbc5ff; // Bg/Brand/Secondary-Hover
+$sd-background-brand-tertiary: #f4f5ff; // Bg/Brand/Tertiary
+$sd-background-brand-tertiary-hover: #dfe3fb; // Bg/Brand/Tertiary-Hover
+$sd-background-positive-default: #14ae5c; // Bg/Positive/Default
+$sd-background-positive-secondary: #cff7d3; // Bg/Positive/Secondary
+$sd-background-positive-default-hover: #009951; // Bg/Positive/Hover
+$sd-background-positive-secondary-hover: #aff4c6; // Bg/Positive/Secondary-Hover
+$sd-background-positive-tertiary: #ebffee; // Bg/Positive/Tertiary
+$sd-background-positive-tertiary-hover: #cff7d3; // Bg/Positive/Tertiary-Hover
+$sd-background-warning-default: #e8b931; // Bg/Warning/Default
+$sd-background-warning-secondary: #fff1c2; // Bg/Warning/Secondary
+$sd-background-warning-default-hover: #e5a000; // Bg/Warning/Hover
+$sd-background-warning-secondary-hover: #ffe8a3; // Bg/Warning/Secondary-Hover
+$sd-background-warning-tertiary: #fffbeb; // Bg/Warning/Tertiary
+$sd-background-warning-tertiary-hover: #fff1c2; // Bg/Warning/Tertiary-Hover
+$sd-background-danger-default: #ec221f; // Bg/Danger/Default
+$sd-background-danger-secondary: #fdd3d0; // Bg/Danger/Secondary
+$sd-background-danger-default-hover: #c00f0c; // Bg/Danger/Hover
+$sd-background-danger-secondary-hover: #fcb3ad; // Bg/Danger/Secondary-Hover
+$sd-background-danger-tertiary: #fee9e7; // Bg/Danger/Tertiary
+$sd-background-danger-tertiary-hover: #fdd3d0; // Bg/Danger/Tertiary-Hover
+$sd-background-disabled-default: #f7f7f8; // Bg/Disabled/Default
+$sd-background-utilities-scrim: rgba(255, 255, 255, 0.8); // Bg/Utilities/Scrim
+$sd-background-utilities-overlay: rgba(0, 0, 0, 0.5); // Bg/Utilities/Overlay
+$sd-background-utilities-blanket: rgba(0, 0, 0, 0.7); // Bg/Utilities/Blanket
+$sd-background-utilities-measurement: #fae1fa; // Bg/Utilities/Measurement
+$sd-background-neutral-default: #5a5a5a; // Bg/Neutral/Default
+$sd-background-neutral-default-hover: #434343; // Bg/Neutral/Hover
+$sd-background-neutral-secondary: #cdcdcd; // Bg/Neutral/Secondary
+$sd-background-neutral-secondary-hover: #b2b2b2; // Bg/Neutral/Secondary-Hover
+$sd-background-neutral-tertiary: #e3e3e3; // Bg/Neutral/Tertiary
+$sd-background-neutral-tertiary-hover: #cdcdcd; // Bg/Neutral/Tertiary-Hover
+$sd-text-default-default: #484a57;
+$sd-text-default-secondary: #9a9dac;
+$sd-text-default-tertiary: #b4b6c1;
+$sd-text-brand-default: #070d36;
+$sd-text-brand-secondary: #0e1868;
+$sd-text-brand-tertiary: #111f82;
+$sd-text-brand-on-brand: #f4f5ff;
+$sd-text-brand-on-brand-secondary: #04061b;
+$sd-text-brand-on-brand-tertiary: #070d36;
+$sd-text-positive-default: #02542d;
+$sd-text-positive-secondary: #009951;
+$sd-text-positive-tertiary: #14ae5c;
+$sd-text-positive-on-positive: #ebffee;
+$sd-text-positive-on-positive-secondary: #024023;
+$sd-text-positive-on-positive-tertiary: #02542d;
+$sd-text-warning-default: #522504;
+$sd-text-warning-secondary: #975102;
+$sd-text-warning-tertiary: #bf6a02;
+$sd-text-warning-on-warning: #401b01;
+$sd-text-warning-on-warning-secondary: #682d03;
+$sd-text-warning-on-warning-tertiary: #522504;
+$sd-text-danger-default: #900b09;
+$sd-text-danger-secondary: #c00f0c;
+$sd-text-danger-tertiary: #ec221f;
+$sd-text-danger-on-danger: #fee9e7;
+$sd-text-danger-on-danger-secondary: #900b09;
+$sd-text-danger-on-danger-tertiary: #900b09;
+$sd-text-disabled-default: #b4b6c1;
+$sd-text-disabled-on-disabled: #b4b6c1;
+$sd-text-utilities-text-on-overlay: #0c0c0d;
+$sd-text-utilities-text-on-measurement: #8a226f;
+$sd-text-neutral-default: #303030;
+$sd-text-neutral-secondary: #5a5a5a;
+$sd-text-neutral-tertiary: #767676;
+$sd-text-neutral-on-neutral: #f3f3f3;
+$sd-text-neutral-on-neutral-secondary: #303030;
+$sd-text-neutral-on-neutral-tertiary: #434343;
+$sd-icon-default-default: #484a57;
+$sd-icon-default-secondary: #9a9dac;
+$sd-icon-default-tertiary: #b4b6c1;
+$sd-icon-brand-default: #070d36;
+$sd-icon-brand-secondary: #0e1868;
+$sd-icon-brand-tertiary: #111f82;
+$sd-icon-brand-on-brand: #f4f5ff;
+$sd-icon-brand-on-brand-secondary: #04061b;
+$sd-icon-brand-on-brand-tertiary: #070d36;
+$sd-icon-positive-default: #02542d;
+$sd-icon-positive-secondary: #009951;
+$sd-icon-positive-tertiary: #14ae5c;
+$sd-icon-positive-on-positive: #ebffee;
+$sd-icon-positive-on-positive-secondary: #024023;
+$sd-icon-positive-on-positive-tertiary: #02542d;
+$sd-icon-warning-default: #522504;
+$sd-icon-warning-secondary: #975102;
+$sd-icon-warning-tertiary: #bf6a02;
+$sd-icon-warning-on-warning: #401b01;
+$sd-icon-warning-on-warning-secondary: #682d03;
+$sd-icon-warning-on-warning-tertiary: #522504;
+$sd-icon-danger-default: #900b09;
+$sd-icon-danger-secondary: #c00f0c;
+$sd-icon-danger-tertiary: #ec221f;
+$sd-icon-danger-on-danger: #fee9e7;
+$sd-icon-danger-on-danger-secondary: #900b09;
+$sd-icon-danger-on-danger-tertiary: #900b09;
+$sd-icon-disabled-default: #b4b6c1;
+$sd-icon-disabled-on-disabled: #b4b6c1;
+$sd-icon-neutral-default: #303030;
+$sd-icon-neutral-secondary: #5a5a5a;
+$sd-icon-neutral-tertiary: #767676;
+$sd-icon-neutral-on-neutral: #f3f3f3;
+$sd-icon-neutral-on-neutral-secondary: #303030;
+$sd-icon-neutral-on-neutral-tertiary: #434343;
+$sd-icon-utilities-icon-on-measurement: #8a226f;
+$sd-icon-utilities-icon: #d732a8;
+$sd-border-default-default: #dddee4;
+$sd-border-default-secondary: #9a9dac;
+$sd-border-default-tertiary: #767a8e;
+$sd-border-brand-default: #070d36;
+$sd-border-brand-secondary: #0e1868;
+$sd-border-brand-tertiary: #111f82;
+$sd-border-positive-default: #02542d;
+$sd-border-positive-secondary: #009951;
+$sd-border-positive-tertiary: #14ae5c;
+$sd-border-warning-default: #522504;
+$sd-border-warning-secondary: #975102;
+$sd-border-warning-tertiary: #bf6a02;
+$sd-border-danger-default: #900b09;
+$sd-border-danger-secondary: #c00f0c;
+$sd-border-danger-tertiary: #ec221f;
+$sd-border-disabled-default: #dddee4;
+$sd-border-utilities-measurement: #f19edc;
+$sd-border-utilities-swatch: rgba(0, 0, 0, 0.24);
+$sd-border-neutral-default: #303030;
+$sd-border-neutral-secondary: #767676;
+$sd-border-neutral-tertiary: #b2b2b2;

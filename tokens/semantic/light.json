@@ -1,0 +1,659 @@
+{
+  "background": {
+    "default": {
+      "default": {
+        "$type": "color",
+        "$value": "{white.1000}",
+        "$description": "Bg/Default/Default"
+      },
+      "default hover": {
+        "$type": "color",
+        "$value": "{gray.100}",
+        "$description": "Bg/Default/Default-Hover"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{gray.100}",
+        "$description": "Bg/Default/Secondary"
+      },
+      "secondary hover": {
+        "$type": "color",
+        "$value": "{gray.200}",
+        "$description": "Bg/Default/Secondary-Hover"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{gray.300}",
+        "$description": "Bg/Default/Tertiary"
+      },
+      "tertiary hover": {
+        "$type": "color",
+        "$value": "{gray.400}",
+        "$description": "Bg/Default/Tertiary-Hover"
+      }
+    },
+    "brand": {
+      "default": {
+        "$type": "color",
+        "$value": "{brand.800}",
+        "$description": "Bg/Brand/Default"
+      },
+      "default hover": {
+        "$type": "color",
+        "$value": "{brand.900}",
+        "$description": "Bg/Brand/Hover"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{brand.200}",
+        "$description": "Bg/Brand/Secondary"
+      },
+      "secondary hover": {
+        "$type": "color",
+        "$value": "{brand.300}",
+        "$description": "Bg/Brand/Secondary-Hover"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{brand.100}",
+        "$description": "Bg/Brand/Tertiary"
+      },
+      "tertiary hover": {
+        "$type": "color",
+        "$value": "{brand.200}",
+        "$description": "Bg/Brand/Tertiary-Hover"
+      }
+    },
+    "positive": {
+      "default": {
+        "$type": "color",
+        "$value": "{green.500}",
+        "$description": "Bg/Positive/Default"
+      },
+      "default hover": {
+        "$type": "color",
+        "$value": "{green.600}",
+        "$description": "Bg/Positive/Hover"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{green.200}",
+        "$description": "Bg/Positive/Secondary"
+      },
+      "secondary hover": {
+        "$type": "color",
+        "$value": "{green.300}",
+        "$description": "Bg/Positive/Secondary-Hover"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{green.100}",
+        "$description": "Bg/Positive/Tertiary"
+      },
+      "tertiary hover": {
+        "$type": "color",
+        "$value": "{green.200}",
+        "$description": "Bg/Positive/Tertiary-Hover"
+      }
+    },
+    "warning": {
+      "default": {
+        "$type": "color",
+        "$value": "{yellow.400}",
+        "$description": "Bg/Warning/Default"
+      },
+      "default hover": {
+        "$type": "color",
+        "$value": "{yellow.500}",
+        "$description": "Bg/Warning/Hover"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{yellow.200}",
+        "$description": "Bg/Warning/Secondary"
+      },
+      "secondary hover": {
+        "$type": "color",
+        "$value": "{yellow.300}",
+        "$description": "Bg/Warning/Secondary-Hover"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{yellow.100}",
+        "$description": "Bg/Warning/Tertiary"
+      },
+      "tertiary hover": {
+        "$type": "color",
+        "$value": "{yellow.200}",
+        "$description": "Bg/Warning/Tertiary-Hover"
+      }
+    },
+    "danger": {
+      "default": {
+        "$type": "color",
+        "$value": "{red.500}",
+        "$description": "Bg/Danger/Default"
+      },
+      "default hover": {
+        "$type": "color",
+        "$value": "{red.600}",
+        "$description": "Bg/Danger/Hover"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{red.200}",
+        "$description": "Bg/Danger/Secondary"
+      },
+      "secondary hover": {
+        "$type": "color",
+        "$value": "{red.300}",
+        "$description": "Bg/Danger/Secondary-Hover"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{red.100}",
+        "$description": "Bg/Danger/Tertiary"
+      },
+      "tertiary hover": {
+        "$type": "color",
+        "$value": "{red.200}",
+        "$description": "Bg/Danger/Tertiary-Hover"
+      }
+    },
+    "disabled": {
+      "default": {
+        "$type": "color",
+        "$value": "{gray.100}",
+        "$description": "Bg/Disabled/Default"
+      }
+    },
+    "utilities": {
+      "scrim": {
+        "$type": "color",
+        "$value": "#ffffffcc",
+        "$description": "Bg/Utilities/Scrim"
+      },
+      "overlay": {
+        "$type": "color",
+        "$value": "#00000080",
+        "$description": "Bg/Utilities/Overlay"
+      },
+      "blanket": {
+        "$type": "color",
+        "$value": "#000000b3",
+        "$description": "Bg/Utilities/Blanket"
+      },
+      "measurement": {
+        "$type": "color",
+        "$value": "{pink.200}",
+        "$description": "Bg/Utilities/Measurement"
+      }
+    },
+    "neutral": {
+      "default": {
+        "$type": "color",
+        "$value": "{slate.700}",
+        "$description": "Bg/Neutral/Default"
+      },
+      "default hover": {
+        "$type": "color",
+        "$value": "{slate.800}",
+        "$description": "Bg/Neutral/Hover"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{slate.300}",
+        "$description": "Bg/Neutral/Secondary"
+      },
+      "secondary hover": {
+        "$type": "color",
+        "$value": "{slate.400}",
+        "$description": "Bg/Neutral/Secondary-Hover"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{slate.200}",
+        "$description": "Bg/Neutral/Tertiary"
+      },
+      "tertiary hover": {
+        "$type": "color",
+        "$value": "{slate.300}",
+        "$description": "Bg/Neutral/Tertiary-Hover"
+      }
+    }
+  },
+  "text": {
+    "default": {
+      "default": {
+        "$type": "color",
+        "$value": "{gray.900}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{gray.500}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{gray.400}"
+      }
+    },
+    "brand": {
+      "default": {
+        "$type": "color",
+        "$value": "{brand.800}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{brand.600}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{brand.500}"
+      },
+      "on brand": {
+        "$type": "color",
+        "$value": "{brand.100}"
+      },
+      "on brand secondary": {
+        "$type": "color",
+        "$value": "{brand.900}"
+      },
+      "on brand tertiary": {
+        "$type": "color",
+        "$value": "{brand.800}"
+      }
+    },
+    "positive": {
+      "default": {
+        "$type": "color",
+        "$value": "{green.800}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{green.600}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{green.500}"
+      },
+      "on positive": {
+        "$type": "color",
+        "$value": "{green.100}"
+      },
+      "on positive secondary": {
+        "$type": "color",
+        "$value": "{green.900}"
+      },
+      "on positive tertiary": {
+        "$type": "color",
+        "$value": "{green.800}"
+      }
+    },
+    "warning": {
+      "default": {
+        "$type": "color",
+        "$value": "{yellow.900}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{yellow.700}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{yellow.600}"
+      },
+      "on warning": {
+        "$type": "color",
+        "$value": "{yellow.1000}"
+      },
+      "on warning secondary": {
+        "$type": "color",
+        "$value": "{yellow.800}"
+      },
+      "on warning tertiary": {
+        "$type": "color",
+        "$value": "{yellow.900}"
+      }
+    },
+    "danger": {
+      "default": {
+        "$type": "color",
+        "$value": "{red.700}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{red.600}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{red.500}"
+      },
+      "on danger": {
+        "$type": "color",
+        "$value": "{red.100}"
+      },
+      "on danger secondary": {
+        "$type": "color",
+        "$value": "{red.700}"
+      },
+      "on danger tertiary": {
+        "$type": "color",
+        "$value": "{red.700}"
+      }
+    },
+    "disabled": {
+      "default": {
+        "$type": "color",
+        "$value": "{gray.400}"
+      },
+      "on disabled": {
+        "$type": "color",
+        "$value": "{gray.400}"
+      }
+    },
+    "utilities": {
+      "text on overlay": {
+        "$type": "color",
+        "$value": "{black.1000}"
+      },
+      "text on measurement": {
+        "$type": "color",
+        "$value": "{pink.800}"
+      }
+    },
+    "neutral": {
+      "default": {
+        "$type": "color",
+        "$value": "{slate.900}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{slate.700}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{slate.600}"
+      },
+      "on neutral": {
+        "$type": "color",
+        "$value": "{slate.100}"
+      },
+      "on neutral secondary": {
+        "$type": "color",
+        "$value": "{slate.900}"
+      },
+      "on neutral tertiary": {
+        "$type": "color",
+        "$value": "{slate.800}"
+      }
+    }
+  },
+  "icon": {
+    "default": {
+      "default": {
+        "$type": "color",
+        "$value": "{gray.900}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{gray.500}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{gray.400}"
+      }
+    },
+    "brand": {
+      "default": {
+        "$type": "color",
+        "$value": "{brand.800}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{brand.600}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{brand.500}"
+      },
+      "on brand": {
+        "$type": "color",
+        "$value": "{brand.100}"
+      },
+      "on brand secondary": {
+        "$type": "color",
+        "$value": "{brand.900}"
+      },
+      "on brand tertiary": {
+        "$type": "color",
+        "$value": "{brand.800}"
+      }
+    },
+    "positive": {
+      "default": {
+        "$type": "color",
+        "$value": "{green.800}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{green.600}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{green.500}"
+      },
+      "on positive": {
+        "$type": "color",
+        "$value": "{green.100}"
+      },
+      "on positive secondary": {
+        "$type": "color",
+        "$value": "{green.900}"
+      },
+      "on positive tertiary": {
+        "$type": "color",
+        "$value": "{green.800}"
+      }
+    },
+    "warning": {
+      "default": {
+        "$type": "color",
+        "$value": "{yellow.900}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{yellow.700}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{yellow.600}"
+      },
+      "on warning": {
+        "$type": "color",
+        "$value": "{yellow.1000}"
+      },
+      "on warning secondary": {
+        "$type": "color",
+        "$value": "{yellow.800}"
+      },
+      "on warning tertiary": {
+        "$type": "color",
+        "$value": "{yellow.900}"
+      }
+    },
+    "danger": {
+      "default": {
+        "$type": "color",
+        "$value": "{red.700}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{red.600}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{red.500}"
+      },
+      "on danger": {
+        "$type": "color",
+        "$value": "{red.100}"
+      },
+      "on danger secondary": {
+        "$type": "color",
+        "$value": "{red.700}"
+      },
+      "on danger tertiary": {
+        "$type": "color",
+        "$value": "{red.700}"
+      }
+    },
+    "disabled": {
+      "default": {
+        "$type": "color",
+        "$value": "{gray.400}"
+      },
+      "on disabled": {
+        "$type": "color",
+        "$value": "{gray.400}"
+      }
+    },
+    "neutral": {
+      "default": {
+        "$type": "color",
+        "$value": "{slate.900}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{slate.700}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{slate.600}"
+      },
+      "on neutral": {
+        "$type": "color",
+        "$value": "{slate.100}"
+      },
+      "on neutral secondary": {
+        "$type": "color",
+        "$value": "{slate.900}"
+      },
+      "on neutral tertiary": {
+        "$type": "color",
+        "$value": "{slate.800}"
+      }
+    },
+    "utilities": {
+      "icon on measurement": {
+        "$type": "color",
+        "$value": "{pink.800}"
+      },
+      "icon": {
+        "$type": "color",
+        "$value": "{pink.600}"
+      }
+    }
+  },
+  "border": {
+    "default": {
+      "default": {
+        "$type": "color",
+        "$value": "{gray.300}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{gray.500}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{gray.700}"
+      }
+    },
+    "brand": {
+      "default": {
+        "$type": "color",
+        "$value": "{brand.800}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{brand.600}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{brand.500}"
+      }
+    },
+    "positive": {
+      "default": {
+        "$type": "color",
+        "$value": "{green.800}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{green.600}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{green.500}"
+      }
+    },
+    "warning": {
+      "default": {
+        "$type": "color",
+        "$value": "{yellow.900}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{yellow.700}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{yellow.600}"
+      }
+    },
+    "danger": {
+      "default": {
+        "$type": "color",
+        "$value": "{red.700}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{red.600}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{red.500}"
+      }
+    },
+    "disabled": {
+      "default": {
+        "$type": "color",
+        "$value": "{gray.300}"
+      }
+    },
+    "utilities": {
+      "measurement": {
+        "$type": "color",
+        "$value": "{pink.400}"
+      },
+      "swatch": {
+        "$type": "color",
+        "$value": "#0000003d"
+      }
+    },
+    "neutral": {
+      "default": {
+        "$type": "color",
+        "$value": "{slate.900}"
+      },
+      "secondary": {
+        "$type": "color",
+        "$value": "{slate.600}"
+      },
+      "tertiary": {
+        "$type": "color",
+        "$value": "{slate.400}"
+      }
+    }
+  }
+}
